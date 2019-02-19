@@ -1,0 +1,125 @@
+
+    
+    .drunk {
+    background-image: url("https://i.imgur.com/h5O0t4G.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    align-items: center;
+    position: relative;
+    }
+    
+    /*.nav .navbar-nav  {
+        opacity:.9;
+        color: white;
+        border: 0*/
+    }
+    
+        .drink {
+    background-color:#F1F7F1;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    }
+
+        .drank {
+    background-color: #E2EDF7;
+    opacity:.9;
+     font-family: 'Roboto', sans-serif;
+     font-weight: 900;
+ 
+        }
+     
+             .drenk {
+    background-color: #B3B9BF /*#64D496;*/;
+    opacity:.9;
+     font-family: 'Roboto', sans-serif;
+     color: #0A3357;
+     font-weight: 900;
+     
+        }
+        
+        
+        .dronk {
+            background-color: #B3B9BF /*#64D496;*/;
+            background-image: url("https://i.imgur.com/D1RDru5.jpg. alt:initial");
+            background-repeat: no-repeat;
+            background-position: center;
+            font-family: 'Roboto', sans-serif;
+            background-size: cover;
+            color: white;
+        }
+        
+
+        .opaque-overlay {
+             position: absolute;
+             top:0;
+             left:0;
+             height: 100%;
+             width: 100%;
+             background: rgba(150, 150, 150, 0,5);
+        }
+    
+            .whitetext {
+    color: white;
+     font-family: 'Roboto', sans-serif;
+     font-weight: 900;
+    
+     
+        }
+    
+             .feature {
+     text-align:center;
+     font-family: 'Roboto', sans-serif;
+     font-weight: 900;
+    
+     
+        }
+    
+              .ice {
+        font-size: larger;
+        background-color: #FC064B;
+        }
+                     .quotes {
+        font-family: 'Roboto', sans-serif;
+         font-weight: 900;
+        }
+        
+                 .tabell {
+       background-color:black;
+        }
+        
+    
+       /* .btn-cta {
+       font-weight: bold;
+       border-radius: 23px;
+       width: 160px;
+        }
+        
+        
+        .btn-red {
+       color: white;
+       background-color:#ff6305;
+     border-color:#ff6305;
+        }
+    
+    .btn-red:hover,
+    .btn-red:active,
+    .btn-red:focus,
+    .btn-red.active:focus {
+        background-color: #ff6305;
+        border-color: #ff6305;
+        color: white;
+    }*/
+      
+     .feature .glyphicon {
+         display:block;
+         margin-bottom:20px;
+         font-size: 45px;
+         line-height: 45px;
+         color:#E2EDF7;
+     }
+        
